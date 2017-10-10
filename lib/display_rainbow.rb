@@ -9,5 +9,3 @@ def display_rainbow(array)
   end
   puts result.join
 end
-
-display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
