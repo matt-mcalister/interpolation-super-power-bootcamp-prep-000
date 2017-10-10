@@ -7,5 +7,6 @@ def display_rainbow(array)
     end
     result << string
   end
-  puts result.join
+  result = result.join
+  puts result
 end
