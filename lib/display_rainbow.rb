@@ -10,3 +10,7 @@ def display_rainbow(array)
   result = result.join
   puts result
 end
+
+colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+
+display_rainbow(colors)
