@@ -7,7 +7,7 @@ def display_rainbow(array)
     end
     result << string
   end
-  print result.join
+  puts result.join
 end
 
 display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
