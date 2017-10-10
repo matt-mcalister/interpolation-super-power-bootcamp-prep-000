@@ -11,6 +11,6 @@ def display_rainbow(array)
   puts result
 end
 
-colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
-
-display_rainbow(colors)
+# colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+#
+# display_rainbow(colors)
